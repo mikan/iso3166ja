@@ -1,0 +1,570 @@
+[[File:World TLD Map.jpg|thumb|赤字: 国名コード（alpha-2）]]
+
+'''{{lang|en|ISO 3166-1}}'''は、[[国際標準化機構|ISO]]によって発行されている[[ISO 3166]]の第一の部分で[[国名コード]]の標準。日本ではJIS X 0304として標準化されている。国、保護領、および特定の地政学的な意味を持つ地域の名前に対し、以下の3種の国名コードを定義している。
+
+* {{lang|en|ISO 3166-1 alpha-2}}： [[ラテン文字]]2文字による国名コード。3種のコードのうち最も使用されており、「[[.jp]]」等[[インターネット]]での[[国別コードトップレベルドメイン]]として良く知られている（ただし、一部例外がある）
+* {{lang|en|ISO 3166-1 alpha-3}}： ラテン文字3文字による国名コード。上記alpha-2よりも国名コードからラテン文字表記の国名が類推しやすくなっている
+* {{lang|en|ISO 3166-1 numeric}}： 3桁の数字による国コード。{{仮リンク|国際連合統計部|en|United Nations Statistics Division}}により定義、保守されている{{仮リンク|UN M.49|en|UN M.49}}と同じもの。文字体系に依存しないため、非ラテン文字利用者によって有用とされる<ref>{{Cite web |url=http://www.iso.org/iso/country_codes.htm |title=Country Codes - ISO 3166 |publisher=[[国際標準化機構|ISO]] |quote=a three digit numeric code (numeric -3) which can be useful if you need to avoid using Latin script. |accessdate=2014-08-30}}</ref>
+
+ラテン文字による国名コードは1974年から、数字による国コードは1981年からISO 3166に含まれるようになった。その後ISO 3166は3つに分割、拡張され、1997年に国名コードを示すISO 3166-1、1998年に行政区画名をコード表記するための[[ISO 3166-2]]、1999年に旧国名や旧地域名をコード表記するための[[ISO 3166-3]]が定義された。
+
+広く利用されている国際標準として、ISO 3166-1は他の標準を基にしており、また、物資と情報の交換を容易にするために国際機関で用いられている<ref>{{Cite web |url=https://web.archive.org/web/20120106121225/http://www.iso.org/iso/country_codes/background_on_iso_3166/iso_3166_and_the_un.htm |title=ISO 3166 and the UN |publisher=[[国際標準化機構|ISO]] |quote=For example the World Intellectual Property Organization (WIPO) or the UN Economic Commission for Europe (UN/ECE) use the alpha-2 code from ISO 3166-1 for their country coding systems. |accessdate=2014-10-11}}</ref>。しかし、ISO 3166-1は唯一の国名コードの標準というわけではなく、ISO 3166-1と異なる他の国名コードも多くの国際機関で用いられている<ref>{{Cite web |url=https://web.archive.org/web/20120104125134/http://www.iso.org/iso/country_codes/links_iso_3166.htm |title=Links |publisher=[[国際標準化機構|ISO]] |quote=Here is a selection of systems which are not, or only partly, compatible with ISO 3166-1 |accessdate=2014-10-11}}</ref>。例えば、[[ITU-T]]による[[国際電話番号]]の規格である[[E.164]]は広く一般に用いられている国名コードの一つとして挙げることができる。
+
+== 略号一覧 ==
+2011年11月8日現在。[[国際オリンピック委員会]](IOC)の[[IOCコード一覧|IOCコード]]とは異なる国が多い。([[南アフリカ共和国]]のZAF⇔RSAなど)
+{{TOC2}}
+{| class="sortable wikitable" style="overflow:visible"
+!style="position:sticky;top:0"| 国・地域名
+!style="position:sticky;top:0"| {{lang|en|ISO 3166-1}}における英語名
+!style="position:sticky;top:0"| {{lang|en|numeric}}
+!style="position:sticky;top:0"| {{lang|en|alpha-3}}
+!style="position:sticky;top:0"| {{lang|en|alpha-2}}
+!style="position:sticky;top:0"| 場所
+!style="position:sticky;top:0"| 各行政区分
+|- class="sortbottom"
+| colspan="7" style="background-color:PaleGreen" | {{Anchors|あ}}あ
+|-
+|{{flagicon|Iceland}} [[アイスランド]]||lang="en"|Iceland||<code style="speak-as:spell-out">352</code>||<code style="speak-as:spell-out">ISL</code>||<code style="speak-as:spell-out">IS</code>||北ヨーロッパ||[[ISO 3166-2:IS]]
+|-
+|{{flagicon|Ireland}} [[アイルランド]]||lang="en"|Ireland||<code style="speak-as:spell-out">372</code>||<code style="speak-as:spell-out">IRL</code>||<code style="speak-as:spell-out">IE</code>||西ヨーロッパ||[[ISO 3166-2:IE]]
+|-
+|{{flagicon|Azerbaijan}} [[アゼルバイジャン]]||lang="en"|Azerbaijan||<code style="speak-as:spell-out">031</code>||<code style="speak-as:spell-out">AZE</code>||<code style="speak-as:spell-out">AZ</code>||東ヨーロッパ||[[ISO 3166-2:AZ]]
+|-
+|{{flagicon|Afghanistan}} [[アフガニスタン]]||lang="en"|Afghanistan||<code style="speak-as:spell-out">004</code>||<code style="speak-as:spell-out">AFG</code>||<code style="speak-as:spell-out">AF</code>||中東||[[ISO 3166-2:AF]]
+|-
+|{{flagicon|United States}} [[アメリカ合衆国]]||lang="en"|United States of America||<code style="speak-as:spell-out">840</code>||<code style="speak-as:spell-out">USA</code>||<code style="speak-as:spell-out">US</code>||北アメリカ||[[ISO 3166-2:US]]
+|-
+|{{flagicon|United States Virgin Islands}} [[アメリカ領ヴァージン諸島]]||lang="en"|Virgin Islands (U.S.)||<code style="speak-as:spell-out">850</code>||<code style="speak-as:spell-out">VIR</code>||<code style="speak-as:spell-out">VI</code>||中央アメリカ||[[ISO 3166-2:VI]]
+|-
+|{{flagicon|American Samoa}} [[アメリカ領サモア]]||lang="en"|American Samoa||<code style="speak-as:spell-out">016</code>||<code style="speak-as:spell-out">ASM</code>||<code style="speak-as:spell-out">AS</code>||オセアニア||[[ISO 3166-2:AS]]
+|-
+|{{flagicon|United Arab Emirates}} [[アラブ首長国連邦]]||lang="en"|United Arab Emirates||<code style="speak-as:spell-out">784</code>||<code style="speak-as:spell-out">ARE</code>||<code style="speak-as:spell-out">AE</code>||中東||[[ISO 3166-2:AE]]
+|-
+|{{flagicon|Algeria}} [[アルジェリア]]||lang="en"|Algeria||<code style="speak-as:spell-out">012</code>||<code style="speak-as:spell-out">DZA</code>||<code style="speak-as:spell-out">DZ</code>||北アフリカ||[[ISO 3166-2:DZ]]
+|-
+|{{flagicon|Argentina}} [[アルゼンチン]]||lang="en"|Argentina||<code style="speak-as:spell-out">032</code>||<code style="speak-as:spell-out">ARG</code>||<code style="speak-as:spell-out">AR</code>||南アメリカ||[[ISO 3166-2:AR]]
+|-
+|{{flagicon|Aruba}} [[アルバ]]||lang="en"|Aruba||<code style="speak-as:spell-out">533</code>||<code style="speak-as:spell-out">ABW</code>||<code style="speak-as:spell-out">AW</code>||中央アメリカ||[[ISO 3166-2:AW]]
+|-
+|{{flagicon|Albania}} [[アルバニア]]||lang="en"|Albania||<code style="speak-as:spell-out">008</code>||<code style="speak-as:spell-out">ALB</code>||<code style="speak-as:spell-out">AL</code>||東ヨーロッパ||[[ISO 3166-2:AL]]
+|-
+|{{flagicon|Armenia}} [[アルメニア]]||lang="en"|Armenia||<code style="speak-as:spell-out">051</code>||<code style="speak-as:spell-out">ARM</code>||<code style="speak-as:spell-out">AM</code>||東ヨーロッパ||[[ISO 3166-2:AM]]
+|-
+|{{flagicon|Anguilla}} [[アンギラ]]||lang="en"|Anguilla||<code style="speak-as:spell-out">660</code>||<code style="speak-as:spell-out">AIA</code>||<code style="speak-as:spell-out">AI</code>||中央アメリカ||[[ISO 3166-2:AI]]
+|-
+|{{flagicon|Angola}} [[アンゴラ]]||lang="en"|Angola||<code style="speak-as:spell-out">024</code>||<code style="speak-as:spell-out">AGO</code>||<code style="speak-as:spell-out">AO</code>||南アフリカ||[[ISO 3166-2:AO]]
+|-
+|{{flagicon|Antigua and Barbuda}} [[アンティグア・バーブーダ]]||lang="en"|Antigua and Barbuda||<code style="speak-as:spell-out">028</code>||<code style="speak-as:spell-out">ATG</code>||<code style="speak-as:spell-out">AG</code>||中央アメリカ||[[ISO 3166-2:AG]]
+|-
+|{{flagicon|Andorra}} [[アンドラ]]||lang="en"|Andorra||<code style="speak-as:spell-out">020</code>||<code style="speak-as:spell-out">AND</code>||<code style="speak-as:spell-out">AD</code>||西ヨーロッパ||[[ISO 3166-2:AD]]
+|-
+|{{flagicon|Yemen}} [[イエメン]]||lang="en"|Yemen||<code style="speak-as:spell-out">887</code>||<code style="speak-as:spell-out">YEM</code>||<code style="speak-as:spell-out">YE</code>||中東||[[ISO 3166-2:YE]]
+|-
+|{{flagicon|United Kingdom}} [[イギリス]]||lang="en"|United Kingdom of Great Britain and Northern Ireland||<code style="speak-as:spell-out">826</code>||<code style="speak-as:spell-out">GBR</code>||<code style="speak-as:spell-out">GB</code>||西ヨーロッパ||[[ISO 3166-2:GB]]
+|-
+|{{flagicon|British Indian Ocean Territory}} [[イギリス領インド洋地域]]||lang="en"|British Indian Ocean Territory||<code style="speak-as:spell-out">086</code>||<code style="speak-as:spell-out">IOT</code>||<code style="speak-as:spell-out">IO</code>|| style="white-space:nowrap;" |インド洋地域||[[ISO 3166-2:IO]]
+|-
+|{{flagicon|British Virgin Islands}} [[イギリス領ヴァージン諸島]]||lang="en"|Virgin Islands (British)||<code style="speak-as:spell-out">092</code>||<code style="speak-as:spell-out">VGB</code>||<code style="speak-as:spell-out">VG</code>||中央アメリカ||[[ISO 3166-2:VG]]
+|-
+|{{flagicon|Israel}} [[イスラエル]]||lang="en"|Israel||<code style="speak-as:spell-out">376</code>||<code style="speak-as:spell-out">ISR</code>||<code style="speak-as:spell-out">IL</code>||中東||[[ISO 3166-2:IL]]
+|-
+|{{flagicon|Italy}} [[イタリア]]||lang="en"|Italy||<code style="speak-as:spell-out">380</code>||<code style="speak-as:spell-out">ITA</code>||<code style="speak-as:spell-out">IT</code>||西ヨーロッパ||[[ISO 3166-2:IT]]
+|-
+|{{flagicon|Iraq}} [[イラク]]||lang="en"|Iraq||<code style="speak-as:spell-out">368</code>||<code style="speak-as:spell-out">IRQ</code>||<code style="speak-as:spell-out">IQ</code>||中東||[[ISO 3166-2:IQ]]
+|-
+|{{flagicon|Iran}} [[イラン|イラン・イスラム共和国]]||lang="en"|Iran (Islamic Republic of)||<code style="speak-as:spell-out">364</code>||<code style="speak-as:spell-out">IRN</code>||<code style="speak-as:spell-out">IR</code>||中東||[[ISO 3166-2:IR]]
+|-
+|{{flagicon|India}} [[インド]]||lang="en"|India||<code style="speak-as:spell-out">356</code>||<code style="speak-as:spell-out">IND</code>||<code style="speak-as:spell-out">IN</code>||南アジア||[[ISO 3166-2:IN]]
+|-
+|{{flagicon|Indonesia}} [[インドネシア]]||lang="en"|Indonesia||<code style="speak-as:spell-out">360</code>||<code style="speak-as:spell-out">IDN</code>||<code style="speak-as:spell-out">ID</code>||東南アジア||[[ISO 3166-2:ID]]
+|-
+|{{flagicon|Wallis and Futuna}} [[ウォリス・フツナ]]||lang="en"|Wallis and Futuna||<code style="speak-as:spell-out">876</code>||<code style="speak-as:spell-out">WLF</code>||<code style="speak-as:spell-out">WF</code>||オセアニア||[[ISO 3166-2:WF]]
+|-
+|{{flagicon|Uganda}} [[ウガンダ]]||lang="en"|Uganda||<code style="speak-as:spell-out">800</code>||<code style="speak-as:spell-out">UGA</code>||<code style="speak-as:spell-out">UG</code>||中央アフリカ||[[ISO 3166-2:UG]]
+|-
+|{{flagicon|Ukraine}} [[ウクライナ]]||lang="en"|Ukraine||<code style="speak-as:spell-out">804</code>||<code style="speak-as:spell-out">UKR</code>||<code style="speak-as:spell-out">UA</code>||東ヨーロッパ||[[ISO 3166-2:UA]]
+|-
+|{{flagicon|Uzbekistan}} [[ウズベキスタン]]||lang="en"|Uzbekistan||<code style="speak-as:spell-out">860</code>||<code style="speak-as:spell-out">UZB</code>||<code style="speak-as:spell-out">UZ</code>||中央アジア||[[ISO 3166-2:UZ]]
+|-
+|{{flagicon|Uruguay}} [[ウルグアイ]]||lang="en"|Uruguay||<code style="speak-as:spell-out">858</code>||<code style="speak-as:spell-out">URY</code>||<code style="speak-as:spell-out">UY</code>||南アメリカ||[[ISO 3166-2:UY]]
+|-
+|{{flagicon|Ecuador}} [[エクアドル]]||lang="en"|Ecuador||<code style="speak-as:spell-out">218</code>||<code style="speak-as:spell-out">ECU</code>||<code style="speak-as:spell-out">EC</code>||南アメリカ||[[ISO 3166-2:EC]]
+|-
+|{{flagicon|Egypt}} [[エジプト]]||lang="en"|Egypt||<code style="speak-as:spell-out">818</code>||<code style="speak-as:spell-out">EGY</code>||<code style="speak-as:spell-out">EG</code>||北アフリカ||[[ISO 3166-2:EG]]
+|-
+|{{flagicon|Estonia}} [[エストニア]]||lang="en"|Estonia||<code style="speak-as:spell-out">233</code>||<code style="speak-as:spell-out">EST</code>||<code style="speak-as:spell-out">EE</code>||東ヨーロッパ||[[ISO 3166-2:EE]]
+|-
+|{{flagicon|Eswatini}} [[エスワティニ]]||lang="en"|Eswatini||<code style="speak-as:spell-out">748</code>||<code style="speak-as:spell-out">SWZ</code>||<code style="speak-as:spell-out">SZ</code>||南アフリカ||[[ISO 3166-2:SZ]]
+|-
+|{{flagicon|Ethiopia}} [[エチオピア]]||lang="en"|Ethiopia||<code style="speak-as:spell-out">231</code>||<code style="speak-as:spell-out">ETH</code>||<code style="speak-as:spell-out">ET</code>||東アフリカ||[[ISO 3166-2:ET]]
+|-
+|{{flagicon|Eritrea}} [[エリトリア]]||lang="en"|Eritrea||<code style="speak-as:spell-out">232</code>||<code style="speak-as:spell-out">ERI</code>||<code style="speak-as:spell-out">ER</code>||東アフリカ||[[ISO 3166-2:ER]]
+|-
+|{{flagicon|El Salvador}} [[エルサルバドル]]||lang="en"|El Salvador||<code style="speak-as:spell-out">222</code>||<code style="speak-as:spell-out">SLV</code>||<code style="speak-as:spell-out">SV</code>||中央アメリカ||[[ISO 3166-2:SV]]
+|-
+|{{flagicon|Australia}} [[オーストラリア]]||lang="en"|Australia||<code style="speak-as:spell-out">036</code>||<code style="speak-as:spell-out">AUS</code>||<code style="speak-as:spell-out">AU</code>||オセアニア||[[ISO 3166-2:AU]]
+|-
+|{{flagicon|Austria}} [[オーストリア]]||lang="en"|Austria||<code style="speak-as:spell-out">040</code>||<code style="speak-as:spell-out">AUT</code>||<code style="speak-as:spell-out">AT</code>||東ヨーロッパ||[[ISO 3166-2:AT]]
+|-
+|{{flagicon|Åland}} [[オーランド諸島]]||lang="en"|Åland Islands||<code style="speak-as:spell-out">248</code>||<code style="speak-as:spell-out">ALA</code>||<code style="speak-as:spell-out">AX</code>||北ヨーロッパ||[[ISO 3166-2:AX]]
+|-
+|{{flagicon|Oman}} [[オマーン]]||lang="en"|Oman||<code style="speak-as:spell-out">512</code>||<code style="speak-as:spell-out">OMN</code>||<code style="speak-as:spell-out">OM</code>||中東||[[ISO 3166-2:OM]]
+|-
+|{{flagicon|Netherlands}} [[オランダ]]||lang="en"|Netherlands||<code style="speak-as:spell-out">528</code>||<code style="speak-as:spell-out">NLD</code>||<code style="speak-as:spell-out">NL</code>||西ヨーロッパ||[[ISO 3166-2:NL]]
+|- class="sortbottom"
+| colspan="7" style="background-color:PaleGreen" | {{Anchors|か}}か
+|-
+|{{flagicon|Ghana}} [[ガーナ]]||lang="en"|Ghana||<code style="speak-as:spell-out">288</code>||<code style="speak-as:spell-out">GHA</code>||<code style="speak-as:spell-out">GH</code>||西アフリカ||[[ISO 3166-2:GH]]
+|-
+|{{flagicon|Cape Verde}} [[カーボベルデ]]||lang="en"|Cabo Verde||<code style="speak-as:spell-out">132</code>||<code style="speak-as:spell-out">CPV</code>||<code style="speak-as:spell-out">CV</code>||西アフリカ||[[ISO 3166-2:CV]]
+|-
+|{{flagicon|Guernsey}} [[ガーンジー]]||lang="en"|Guernsey||<code style="speak-as:spell-out">831</code>||<code style="speak-as:spell-out">GGY</code>||<code style="speak-as:spell-out">GG</code>||西ヨーロッパ||[[ISO 3166-2:GG]]
+|-
+|{{flagicon|Guyana}} [[ガイアナ]]||lang="en"|Guyana||<code style="speak-as:spell-out">328</code>||<code style="speak-as:spell-out">GUY</code>||<code style="speak-as:spell-out">GY</code>||南アメリカ||[[ISO 3166-2:GY]]
+|-
+|{{flagicon|Kazakhstan}} [[カザフスタン]]||lang="en"|Kazakhstan||<code style="speak-as:spell-out">398</code>||<code style="speak-as:spell-out">KAZ</code>||<code style="speak-as:spell-out">KZ</code>||中央アジア||[[ISO 3166-2:KZ]]
+|-
+|{{flagicon|Qatar}} [[カタール]]||lang="en"|Qatar||<code style="speak-as:spell-out">634</code>||<code style="speak-as:spell-out">QAT</code>||<code style="speak-as:spell-out">QA</code>||中東||[[ISO 3166-2:QA]]
+|-
+|{{flagicon|United States}} [[合衆国領有小離島]]||lang="en"|United States Minor Outlying Islands||<code style="speak-as:spell-out">581</code>||<code style="speak-as:spell-out">UMI</code>||<code style="speak-as:spell-out">UM</code>||オセアニア||[[ISO 3166-2:UM]]
+|-
+|{{flagicon|Canada}} [[カナダ]]||lang="en"|Canada||<code style="speak-as:spell-out">124</code>||<code style="speak-as:spell-out">CAN</code>||<code style="speak-as:spell-out">CA</code>||北アメリカ||[[ISO 3166-2:CA]]
+|-
+|{{flagicon|Gabon}} [[ガボン]]||lang="en"|Gabon||<code style="speak-as:spell-out">266</code>||<code style="speak-as:spell-out">GAB</code>||<code style="speak-as:spell-out">GA</code>||中央アフリカ||[[ISO 3166-2:GA]]
+|-
+|{{flagicon|Cameroon}} [[カメルーン]]||lang="en"|Cameroon||<code style="speak-as:spell-out">120</code>||<code style="speak-as:spell-out">CMR</code>||<code style="speak-as:spell-out">CM</code>||中央アフリカ||[[ISO 3166-2:CM]]
+|-
+|{{flagicon|The Gambia}} [[ガンビア]]||lang="en"|Gambia||<code style="speak-as:spell-out">270</code>||<code style="speak-as:spell-out">GMB</code>||<code style="speak-as:spell-out">GM</code>||西アフリカ||[[ISO 3166-2:GM]]
+|-
+|{{flagicon|Cambodia}} [[カンボジア]]||lang="en"|Cambodia||<code style="speak-as:spell-out">116</code>||<code style="speak-as:spell-out">KHM</code>||<code style="speak-as:spell-out">KH</code>||東南アジア||[[ISO 3166-2:KH]]
+|-
+|{{flagicon|Republic of Macedonia}} [[北マケドニア]]||lang="en"|North Macedonia||<code style="speak-as:spell-out">807</code>||<code style="speak-as:spell-out">MKD</code>||<code style="speak-as:spell-out">MK</code>||東ヨーロッパ||[[ISO 3166-2:MK]]
+|-
+|{{flagicon|Northern Mariana Islands}} [[北マリアナ諸島]]||lang="en"|Northern Mariana Islands||<code style="speak-as:spell-out">580</code>||<code style="speak-as:spell-out">MNP</code>||<code style="speak-as:spell-out">MP</code>||オセアニア||[[ISO 3166-2:MP]]
+|-
+|{{flagicon|Guinea}} [[ギニア]]||lang="en"|Guinea||<code style="speak-as:spell-out">324</code>||<code style="speak-as:spell-out">GIN</code>||<code style="speak-as:spell-out">GN</code>||西アフリカ||[[ISO 3166-2:GN]]
+|-
+|{{flagicon|Guinea-Bissau}} [[ギニアビサウ]]||lang="en"|Guinea-Bissau||<code style="speak-as:spell-out">624</code>||<code style="speak-as:spell-out">GNB</code>||<code style="speak-as:spell-out">GW</code>||西アフリカ||[[ISO 3166-2:GW]]
+|-
+|{{flagicon|Cyprus}} [[キプロス]]||lang="en"|Cyprus||<code style="speak-as:spell-out">196</code>||<code style="speak-as:spell-out">CYP</code>||<code style="speak-as:spell-out">CY</code>||地中海地域||[[ISO 3166-2:CY]]
+|-
+|{{flagicon|Cuba}} [[キューバ]]||lang="en"|Cuba||<code style="speak-as:spell-out">192</code>||<code style="speak-as:spell-out">CUB</code>||<code style="speak-as:spell-out">CU</code>||中央アメリカ||[[ISO 3166-2:CU]]
+|-
+|{{flagicon|Curaçao}} [[キュラソー島|キュラソー]]||lang="en"|Curaçao||<code style="speak-as:spell-out">531</code>||<code style="speak-as:spell-out">CUW</code>||<code style="speak-as:spell-out">CW</code>||中央アメリカ||[[ISO 3166-2:CW]]
+|-
+|{{flagicon|Greece}} [[ギリシャ]]||lang="en"|Greece||<code style="speak-as:spell-out">300</code>||<code style="speak-as:spell-out">GRC</code>||<code style="speak-as:spell-out">GR</code>||西ヨーロッパ||[[ISO 3166-2:GR]]
+|-
+|{{flagicon|Kiribati}} [[キリバス]]||lang="en"|Kiribati||<code style="speak-as:spell-out">296</code>||<code style="speak-as:spell-out">KIR</code>||<code style="speak-as:spell-out">KI</code>||オセアニア||[[ISO 3166-2:KI]]
+|-
+|{{flagicon|Kyrgyzstan}} [[キルギス]]||lang="en"|Kyrgyzstan||<code style="speak-as:spell-out">417</code>||<code style="speak-as:spell-out">KGZ</code>||<code style="speak-as:spell-out">KG</code>||中央アジア||[[ISO 3166-2:KG]]
+|-
+|{{flagicon|Guatemala}} [[グアテマラ]]||lang="en"|Guatemala||<code style="speak-as:spell-out">320</code>||<code style="speak-as:spell-out">GTM</code>||<code style="speak-as:spell-out">GT</code>||中央アメリカ||[[ISO 3166-2:GT]]
+|-
+|{{flagicon|Guadeloupe}} [[グアドループ]]||lang="en"|Guadeloupe||<code style="speak-as:spell-out">312</code>||<code style="speak-as:spell-out">GLP</code>||<code style="speak-as:spell-out">GP</code>||中央アメリカ||[[ISO 3166-2:GP]]
+|-
+|{{flagicon|Guam}} [[グアム]]||lang="en"|Guam||<code style="speak-as:spell-out">316</code>||<code style="speak-as:spell-out">GUM</code>||<code style="speak-as:spell-out">GU</code>||オセアニア||[[ISO 3166-2:GU]]
+|-
+|{{flagicon|Kuwait}} [[クウェート]]||lang="en"|Kuwait||<code style="speak-as:spell-out">414</code>||<code style="speak-as:spell-out">KWT</code>||<code style="speak-as:spell-out">KW</code>||中東||[[ISO 3166-2:KW]]
+|-
+|{{flagicon|Cook Islands}} [[クック諸島]]||lang="en"|Cook Islands||<code style="speak-as:spell-out">184</code>||<code style="speak-as:spell-out">COK</code>||<code style="speak-as:spell-out">CK</code>||オセアニア||[[ISO 3166-2:CK]]
+|-
+|{{flagicon|Greenland}} [[グリーンランド]]||lang="en"|Greenland||<code style="speak-as:spell-out">304</code>||<code style="speak-as:spell-out">GRL</code>||<code style="speak-as:spell-out">GL</code>||北ヨーロッパ||[[ISO 3166-2:GL]]
+|-
+|{{flagicon|Christmas Island}} [[クリスマス島 (オーストラリア)|クリスマス島]]||lang="en"|Christmas Island||<code style="speak-as:spell-out">162</code>||<code style="speak-as:spell-out">CXR</code>||<code style="speak-as:spell-out">CX</code>||オセアニア||[[ISO 3166-2:CX]]
+|-
+|{{flagicon|Grenada}} [[グレナダ]]||lang="en"|Grenada||<code style="speak-as:spell-out">308</code>||<code style="speak-as:spell-out">GRD</code>||<code style="speak-as:spell-out">GD</code>||中央アメリカ||[[ISO 3166-2:GD]]
+|-
+|{{flagicon|Croatia}} [[クロアチア]]||lang="en"|Croatia||<code style="speak-as:spell-out">191</code>||<code style="speak-as:spell-out">HRV</code>||<code style="speak-as:spell-out">HR</code>||東ヨーロッパ||[[ISO 3166-2:HR]]
+|-
+|{{flagicon|Cayman Islands}} [[ケイマン諸島]]||lang="en"|Cayman Islands||<code style="speak-as:spell-out">136</code>||<code style="speak-as:spell-out">CYM</code>||<code style="speak-as:spell-out">KY</code>||中央アメリカ||[[ISO 3166-2:KY]]
+|-
+|{{flagicon|Kenya}} [[ケニア]]||lang="en"|Kenya||<code style="speak-as:spell-out">404</code>||<code style="speak-as:spell-out">KEN</code>||<code style="speak-as:spell-out">KE</code>||東アフリカ||[[ISO 3166-2:KE]]
+|-
+|{{flagicon|Côte d'Ivoire}} [[コートジボワール]]||lang="en"|Côte d'Ivoire||<code style="speak-as:spell-out">384</code>||<code style="speak-as:spell-out">CIV</code>||<code style="speak-as:spell-out">CI</code>||西アフリカ||[[ISO 3166-2:CI]]
+|-
+|{{flagicon|Cocos (Keeling) Islands}} [[ココス諸島|ココス（キーリング）諸島]]||lang="en"|Cocos (Keeling) Islands||<code style="speak-as:spell-out">166</code>||<code style="speak-as:spell-out">CCK</code>||<code style="speak-as:spell-out">CC</code>||インド洋地域||[[ISO 3166-2:CC]]
+|-
+|{{flagicon|Costa Rica}} [[コスタリカ]]||lang="en"|Costa Rica||<code style="speak-as:spell-out">188</code>||<code style="speak-as:spell-out">CRI</code>||<code style="speak-as:spell-out">CR</code>||中央アメリカ||[[ISO 3166-2:CR]]
+|-
+|{{flagicon|Comoros}} [[コモロ]]||lang="en"|Comoros||<code style="speak-as:spell-out">174</code>||<code style="speak-as:spell-out">COM</code>||<code style="speak-as:spell-out">KM</code>||インド洋地域||[[ISO 3166-2:KM]]
+|-
+|{{flagicon|Colombia}} [[コロンビア]]||lang="en"|Colombia||<code style="speak-as:spell-out">170</code>||<code style="speak-as:spell-out">COL</code>||<code style="speak-as:spell-out">CO</code>||南アメリカ||[[ISO 3166-2:CO]]
+|-
+|{{flagicon|Republic of the Congo}} [[コンゴ共和国]]||lang="en"|Congo||<code style="speak-as:spell-out">178</code>||<code style="speak-as:spell-out">COG</code>||<code style="speak-as:spell-out">CG</code>||中央アフリカ||[[ISO 3166-2:CG]]
+|-
+|{{flagicon|Democratic Republic of the Congo}} [[コンゴ民主共和国]]||lang="en"|Congo, Democratic Republic of the||<code style="speak-as:spell-out">180</code>||<code style="speak-as:spell-out">COD</code>||<code style="speak-as:spell-out">CD</code>||中央アフリカ||[[ISO 3166-2:CD]]
+|- class="sortbottom"
+| colspan="7" style="background-color:PaleGreen" | {{Anchors|さ}}さ
+|-
+|{{flagicon|Saudi Arabia}} [[サウジアラビア]]||lang="en"|Saudi Arabia||<code style="speak-as:spell-out">682</code>||<code style="speak-as:spell-out">SAU</code>||<code style="speak-as:spell-out">SA</code>||中東||[[ISO 3166-2:SA]]
+|-
+|{{flagicon|South Georgia and the South Sandwich Islands}} [[サウスジョージア・サウスサンドウィッチ諸島]]||lang="en"|South Georgia and the South Sandwich Islands||<code style="speak-as:spell-out">239</code>||<code style="speak-as:spell-out">SGS</code>||<code style="speak-as:spell-out">GS</code>||南アメリカ||[[ISO 3166-2:GS]]
+|-
+|{{flagicon|Samoa}} [[サモア]]||lang="en"|Samoa||<code style="speak-as:spell-out">882</code>||<code style="speak-as:spell-out">WSM</code>||<code style="speak-as:spell-out">WS</code>||オセアニア||[[ISO 3166-2:WS]]
+|-
+|{{flagicon|São Tomé and Príncipe}} [[サントメ・プリンシペ]]||lang="en"|Sao Tome and Principe||<code style="speak-as:spell-out">678</code>||<code style="speak-as:spell-out">STP</code>||<code style="speak-as:spell-out">ST</code>||中央アフリカ||[[ISO 3166-2:ST]]
+|-
+|{{flagicon|Saint Barthélemy}} [[サン・バルテルミー島|サン・バルテルミー]]||lang="en"|Saint Barthélemy||<code style="speak-as:spell-out">652</code>||<code style="speak-as:spell-out">BLM</code>||<code style="speak-as:spell-out">BL</code>||中央アメリカ||[[ISO 3166-2:BL]]
+|-
+|{{flagicon|Zambia}} [[ザンビア]]||lang="en"|Zambia||<code style="speak-as:spell-out">894</code>||<code style="speak-as:spell-out">ZMB</code>||<code style="speak-as:spell-out">ZM</code>||南アフリカ||[[ISO 3166-2:ZM]]
+|-
+|{{flagicon|Saint Pierre and Miquelon}} [[サンピエール島・ミクロン島]]||lang="en"|Saint Pierre and Miquelon||<code style="speak-as:spell-out">666</code>||<code style="speak-as:spell-out">SPM</code>||<code style="speak-as:spell-out">PM</code>||北アメリカ||[[ISO 3166-2:PM]]
+|-
+|{{flagicon|San Marino}} [[サンマリノ]]||lang="en"|San Marino||<code style="speak-as:spell-out">674</code>||<code style="speak-as:spell-out">SMR</code>||<code style="speak-as:spell-out">SM</code>||西ヨーロッパ||[[ISO 3166-2:SM]]
+|-
+|{{flagicon|France}} [[サン・マルタン (西インド諸島)|サン・マルタン（フランス領）]]||lang="en"|Saint Martin (French part)||<code style="speak-as:spell-out">663</code>||<code style="speak-as:spell-out">MAF</code>||<code style="speak-as:spell-out">MF</code>||中央アメリカ||[[ISO 3166-2:MF]]
+|-
+|{{flagicon|Sierra Leone}} [[シエラレオネ]]||lang="en"|Sierra Leone||<code style="speak-as:spell-out">694</code>||<code style="speak-as:spell-out">SLE</code>||<code style="speak-as:spell-out">SL</code>||西アフリカ||[[ISO 3166-2:SL]]
+|-
+|{{flagicon|Djibouti}} [[ジブチ]]||lang="en"|Djibouti||<code style="speak-as:spell-out">262</code>||<code style="speak-as:spell-out">DJI</code>||<code style="speak-as:spell-out">DJ</code>||東アフリカ||[[ISO 3166-2:DJ]]
+|-
+|{{flagicon|Gibraltar}} [[ジブラルタル]]||lang="en"|Gibraltar||<code style="speak-as:spell-out">292</code>||<code style="speak-as:spell-out">GIB</code>||<code style="speak-as:spell-out">GI</code>||西ヨーロッパ||[[ISO 3166-2:GI]]
+|-
+|{{flagicon|Jersey}} [[ジャージー]]||lang="en"|Jersey||<code style="speak-as:spell-out">832</code>||<code style="speak-as:spell-out">JEY</code>||<code style="speak-as:spell-out">JE</code>||西ヨーロッパ||[[ISO 3166-2:JE]]
+|-
+|{{flagicon|Jamaica}} [[ジャマイカ]]||lang="en"|Jamaica||<code style="speak-as:spell-out">388</code>||<code style="speak-as:spell-out">JAM</code>||<code style="speak-as:spell-out">JM</code>||中央アメリカ||[[ISO 3166-2:JM]]
+|-
+|{{flagicon|Georgia}} [[ジョージア (国)|ジョージア]]||lang="en"|Georgia||<code style="speak-as:spell-out">268</code>||<code style="speak-as:spell-out">GEO</code>||<code style="speak-as:spell-out">GE</code>||東ヨーロッパ||[[ISO 3166-2:GE]]
+|-
+|{{flagicon|Syria}} [[シリア|シリア・アラブ共和国]]||lang="en"|Syrian Arab Republic||<code style="speak-as:spell-out">760</code>||<code style="speak-as:spell-out">SYR</code>||<code style="speak-as:spell-out">SY</code>||中東||[[ISO 3166-2:SY]]
+|-
+|{{flagicon|Singapore}} [[シンガポール]]||lang="en"|Singapore||<code style="speak-as:spell-out">702</code>||<code style="speak-as:spell-out">SGP</code>||<code style="speak-as:spell-out">SG</code>||東南アジア||[[ISO 3166-2:SG]]
+|-
+|{{flagicon|Sint Maarten}} [[シント・マールテン|シント・マールテン（オランダ領）]]||lang="en"|Sint Maarten (Dutch part)||<code style="speak-as:spell-out">534</code>||<code style="speak-as:spell-out">SXM</code>||<code style="speak-as:spell-out">SX</code>||中央アメリカ||[[ISO 3166-2:SX]]
+|-
+|{{flagicon|Zimbabwe}} [[ジンバブエ]]||lang="en"|Zimbabwe||<code style="speak-as:spell-out">716</code>||<code style="speak-as:spell-out">ZWE</code>||<code style="speak-as:spell-out">ZW</code>||南アフリカ||[[ISO 3166-2:ZW]]
+|-
+|{{flagicon|Switzerland}} [[スイス]]||lang="en"|Switzerland||<code style="speak-as:spell-out">756</code>||<code style="speak-as:spell-out">CHE</code>||<code style="speak-as:spell-out">CH</code>||西ヨーロッパ||[[ISO 3166-2:CH]]
+|-
+|{{flagicon|Sweden}} [[スウェーデン]]||lang="en"|Sweden||<code style="speak-as:spell-out">752</code>||<code style="speak-as:spell-out">SWE</code>||<code style="speak-as:spell-out">SE</code>||北ヨーロッパ||[[ISO 3166-2:SE]]
+|-
+|{{flagicon|Sudan}} [[スーダン]]||lang="en"|Sudan||<code style="speak-as:spell-out">729</code>||<code style="speak-as:spell-out">SDN</code>||<code style="speak-as:spell-out">SD</code>||東アフリカ||[[ISO 3166-2:SD]]
+|-
+|{{flagicon|Norway}} [[スヴァールバル諸島およびヤンマイエン島]]||lang="en"|Svalbard and Jan Mayen||<code style="speak-as:spell-out">744</code>||<code style="speak-as:spell-out">SJM</code>||<code style="speak-as:spell-out">SJ</code>||北ヨーロッパ||[[ISO 3166-2:SJ]]
+|-
+|{{flagicon|Spain}} [[スペイン]]||lang="en"|Spain||<code style="speak-as:spell-out">724</code>||<code style="speak-as:spell-out">ESP</code>||<code style="speak-as:spell-out">ES</code>||西ヨーロッパ||[[ISO 3166-2:ES]]
+|-
+|{{flagicon|Suriname}} [[スリナム]]||lang="en"|Suriname||<code style="speak-as:spell-out">740</code>||<code style="speak-as:spell-out">SUR</code>||<code style="speak-as:spell-out">SR</code>||南アメリカ||[[ISO 3166-2:SR]]
+|-
+|{{flagicon|Sri Lanka}} [[スリランカ]]||lang="en"|Sri Lanka||<code style="speak-as:spell-out">144</code>||<code style="speak-as:spell-out">LKA</code>||<code style="speak-as:spell-out">LK</code>||南アジア||[[ISO 3166-2:LK]]
+|-
+|{{flagicon|Slovakia}} [[スロバキア]]||lang="en"|Slovakia||<code style="speak-as:spell-out">703</code>||<code style="speak-as:spell-out">SVK</code>||<code style="speak-as:spell-out">SK</code>||東ヨーロッパ||[[ISO 3166-2:SK]]
+|-
+|{{flagicon|Slovenia}} [[スロベニア]]||lang="en"|Slovenia||<code style="speak-as:spell-out">705</code>||<code style="speak-as:spell-out">SVN</code>||<code style="speak-as:spell-out">SI</code>||東ヨーロッパ||[[ISO 3166-2:SI]]
+|-
+|{{flagicon|Seychelles}} [[セーシェル]]||lang="en"|Seychelles||<code style="speak-as:spell-out">690</code>||<code style="speak-as:spell-out">SYC</code>||<code style="speak-as:spell-out">SC</code>||インド洋地域||[[ISO 3166-2:SC]]
+|-
+|{{flagicon|Equatorial Guinea}} [[赤道ギニア]]||lang="en"|Equatorial Guinea||<code style="speak-as:spell-out">226</code>||<code style="speak-as:spell-out">GNQ</code>||<code style="speak-as:spell-out">GQ</code>||中央アフリカ||[[ISO 3166-2:GQ]]
+|-
+|{{flagicon|Senegal}} [[セネガル]]||lang="en"|Senegal||<code style="speak-as:spell-out">686</code>||<code style="speak-as:spell-out">SEN</code>||<code style="speak-as:spell-out">SN</code>||西アフリカ||[[ISO 3166-2:SN]]
+|-
+|{{flagicon|Serbia}} [[セルビア]]||lang="en"|Serbia||<code style="speak-as:spell-out">688</code>||<code style="speak-as:spell-out">SRB</code>||<code style="speak-as:spell-out">RS</code>||東ヨーロッパ||[[ISO 3166-2:RS]]
+|-
+|{{flagicon|Saint Kitts and Nevis}} [[セントクリストファー・ネイビス]]||lang="en"|Saint Kitts and Nevis||<code style="speak-as:spell-out">659</code>||<code style="speak-as:spell-out">KNA</code>||<code style="speak-as:spell-out">KN</code>||中央アメリカ||[[ISO 3166-2:KN]]
+|-
+|{{flagicon|Saint Vincent and the Grenadines}} [[セントビンセント・グレナディーン|セントビンセントおよびグレナディーン諸島]]||lang="en"|Saint Vincent and the Grenadines||<code style="speak-as:spell-out">670</code>||<code style="speak-as:spell-out">VCT</code>||<code style="speak-as:spell-out">VC</code>||中央アメリカ||[[ISO 3166-2:VC]]
+|-
+|{{flagicon|Saint Helena}} [[セントヘレナ・アセンションおよびトリスタンダクーニャ]]||lang="en"|Saint Helena, Ascension and Tristan da Cunha||<code style="speak-as:spell-out">654</code>||<code style="speak-as:spell-out">SHN</code>||<code style="speak-as:spell-out">SH</code>||西アフリカ||[[ISO 3166-2:SH]]
+|-
+|{{flagicon|Saint Lucia}} [[セントルシア]]||lang="en"|Saint Lucia||<code style="speak-as:spell-out">662</code>||<code style="speak-as:spell-out">LCA</code>||<code style="speak-as:spell-out">LC</code>||中央アメリカ||[[ISO 3166-2:LC]]
+|-
+|{{flagicon|Somalia}} [[ソマリア]]||lang="en"|Somalia||<code style="speak-as:spell-out">706</code>||<code style="speak-as:spell-out">SOM</code>||<code style="speak-as:spell-out">SO</code>||東アフリカ||[[ISO 3166-2:SO]]
+|-
+|{{flagicon|Solomon Islands}} [[ソロモン諸島]]||lang="en"|Solomon Islands||<code style="speak-as:spell-out">090</code>||<code style="speak-as:spell-out">SLB</code>||<code style="speak-as:spell-out">SB</code>||オセアニア||[[ISO 3166-2:SB]]
+|- class="sortbottom"
+| colspan="7" style="background-color:PaleGreen" | {{Anchors|た}}た
+|-
+|{{flagicon|Turks and Caicos Islands}} [[タークス・カイコス諸島]]||lang="en"|Turks and Caicos Islands||<code style="speak-as:spell-out">796</code>||<code style="speak-as:spell-out">TCA</code>||<code style="speak-as:spell-out">TC</code>||中央アメリカ||[[ISO 3166-2:TC]]
+|-
+|{{flagicon|Thailand}} [[タイ王国|タイ]]||lang="en"|Thailand||<code style="speak-as:spell-out">764</code>||<code style="speak-as:spell-out">THA</code>||<code style="speak-as:spell-out">TH</code>||東南アジア||[[ISO 3166-2:TH]]
+|-
+|{{flagicon|South Korea}} [[大韓民国]]||lang="en"|Korea, Republic of||<code style="speak-as:spell-out">410</code>||<code style="speak-as:spell-out">KOR</code>||<code style="speak-as:spell-out">KR</code>||東アジア||[[ISO 3166-2:KR]]
+|-
+|{{flagicon|Republic of China}} [[台湾]]（[[中華民国]]）|| lang="en" |Taiwan, Province of China||<code style="speak-as:spell-out">158</code>||<code style="speak-as:spell-out">TWN</code>||<code style="speak-as:spell-out">TW</code>||東アジア||[[ISO 3166-2:TW]]
+|-
+|{{flagicon|Tajikistan}} [[タジキスタン]]||lang="en"|Tajikistan||<code style="speak-as:spell-out">762</code>||<code style="speak-as:spell-out">TJK</code>||<code style="speak-as:spell-out">TJ</code>||中央アジア||[[ISO 3166-2:TJ]]
+|-
+|{{flagicon|Tanzania}} [[タンザニア]]||lang="en"|Tanzania, United Republic of||<code style="speak-as:spell-out">834</code>||<code style="speak-as:spell-out">TZA</code>||<code style="speak-as:spell-out">TZ</code>||東アフリカ||[[ISO 3166-2:TZ]]
+|-
+|{{flagicon|Czech Republic}} [[チェコ]]||lang="en"|Czechia||<code style="speak-as:spell-out">203</code>||<code style="speak-as:spell-out">CZE</code>||<code style="speak-as:spell-out">CZ</code>||東ヨーロッパ||[[ISO 3166-2:CZ]]
+|-
+|{{flagicon|Chad}} [[チャド]]||lang="en"|Chad||<code style="speak-as:spell-out">148</code>||<code style="speak-as:spell-out">TCD</code>||<code style="speak-as:spell-out">TD</code>||中央アフリカ||[[ISO 3166-2:TD]]
+|-
+|{{flagicon|Central African Republic}} [[中央アフリカ共和国]]||lang="en"|Central African Republic||<code style="speak-as:spell-out">140</code>||<code style="speak-as:spell-out">CAF</code>||<code style="speak-as:spell-out">CF</code>||中央アフリカ||[[ISO 3166-2:CF]]
+|-
+|{{flagicon|China}} [[中華人民共和国]]||lang="en"|China||<code style="speak-as:spell-out">156</code>||<code style="speak-as:spell-out">CHN</code>||<code style="speak-as:spell-out">CN</code>||東アジア||[[ISO 3166-2:CN]]
+|-
+|{{flagicon|Tunisia}} [[チュニジア]]||lang="en"|Tunisia||<code style="speak-as:spell-out">788</code>||<code style="speak-as:spell-out">TUN</code>||<code style="speak-as:spell-out">TN</code>||北アフリカ||[[ISO 3166-2:TN]]
+|-
+|{{flagicon|North Korea}} [[朝鮮民主主義人民共和国]]||lang="en"|Korea, Democratic People's Republic of||<code style="speak-as:spell-out">408</code>||<code style="speak-as:spell-out">PRK</code>||<code style="speak-as:spell-out">KP</code>||東アジア||[[ISO 3166-2:KP]]
+|-
+|{{flagicon|Chile}} [[チリ]]||lang="en"|Chile||<code style="speak-as:spell-out">152</code>||<code style="speak-as:spell-out">CHL</code>||<code style="speak-as:spell-out">CL</code>||南アメリカ||[[ISO 3166-2:CL]]
+|-
+|{{flagicon|Tuvalu}} [[ツバル]]||lang="en"|Tuvalu||<code style="speak-as:spell-out">798</code>||<code style="speak-as:spell-out">TUV</code>||<code style="speak-as:spell-out">TV</code>||オセアニア||[[ISO 3166-2:TV]]
+|-
+|{{flagicon|Denmark}} [[デンマーク]]||lang="en"|Denmark||<code style="speak-as:spell-out">208</code>||<code style="speak-as:spell-out">DNK</code>||<code style="speak-as:spell-out">DK</code>||北ヨーロッパ||[[ISO 3166-2:DK]]
+|-
+|{{flagicon|Germany}} [[ドイツ]]||lang="en"|Germany||<code style="speak-as:spell-out">276</code>||<code style="speak-as:spell-out">DEU</code>||<code style="speak-as:spell-out">DE</code>||西ヨーロッパ||[[ISO 3166-2:DE]]
+|-
+|{{flagicon|Togo}} [[トーゴ]]||lang="en"|Togo||<code style="speak-as:spell-out">768</code>||<code style="speak-as:spell-out">TGO</code>||<code style="speak-as:spell-out">TG</code>||西アフリカ||[[ISO 3166-2:TG]]
+|-
+|{{flagicon|Tokelau}} [[トケラウ]]||lang="en"|Tokelau||<code style="speak-as:spell-out">772</code>||<code style="speak-as:spell-out">TKL</code>||<code style="speak-as:spell-out">TK</code>||オセアニア||[[ISO 3166-2:TK]]
+|-
+|{{flagicon|Dominican Republic}} [[ドミニカ共和国]]||lang="en"|Dominican Republic||<code style="speak-as:spell-out">214</code>||<code style="speak-as:spell-out">DOM</code>||<code style="speak-as:spell-out">DO</code>||中央アメリカ||[[ISO 3166-2:DO]]
+|-
+|{{flagicon|Dominica}} [[ドミニカ国]]||lang="en"|Dominica||<code style="speak-as:spell-out">212</code>||<code style="speak-as:spell-out">DMA</code>||<code style="speak-as:spell-out">DM</code>||中央アメリカ||[[ISO 3166-2:DM]]
+|-
+|{{flagicon|Trinidad and Tobago}} [[トリニダード・トバゴ]]||lang="en"|Trinidad and Tobago||<code style="speak-as:spell-out">780</code>||<code style="speak-as:spell-out">TTO</code>||<code style="speak-as:spell-out">TT</code>||中央アメリカ||[[ISO 3166-2:TT]]
+|-
+|{{flagicon|Turkmenistan}} [[トルクメニスタン]]||lang="en"|Turkmenistan||<code style="speak-as:spell-out">795</code>||<code style="speak-as:spell-out">TKM</code>||<code style="speak-as:spell-out">TM</code>||中央アジア||[[ISO 3166-2:TM]]
+|-
+|{{flagicon|Turkey}} [[トルコ]]||lang="en"|Turkey||<code style="speak-as:spell-out">792</code>||<code style="speak-as:spell-out">TUR</code>||<code style="speak-as:spell-out">TR</code>||中東||[[ISO 3166-2:TR]]
+|-
+|{{flagicon|Tonga}} [[トンガ]]||lang="en"|Tonga||<code style="speak-as:spell-out">776</code>||<code style="speak-as:spell-out">TON</code>||<code style="speak-as:spell-out">TO</code>||オセアニア||[[ISO 3166-2:TO]]
+|- class="sortbottom"
+| colspan="7" style="background-color:PaleGreen" | {{Anchors|な}}な
+|-
+|{{flagicon|Nigeria}} [[ナイジェリア]]||lang="en"|Nigeria||<code style="speak-as:spell-out">566</code>||<code style="speak-as:spell-out">NGA</code>||<code style="speak-as:spell-out">NG</code>||中央アフリカ||[[ISO 3166-2:NG]]
+|-
+|{{flagicon|Nauru}} [[ナウル]]||lang="en"|Nauru||<code style="speak-as:spell-out">520</code>||<code style="speak-as:spell-out">NRU</code>||<code style="speak-as:spell-out">NR</code>||オセアニア||[[ISO 3166-2:NR]]
+|-
+|{{flagicon|Namibia}} [[ナミビア]]||lang="en"|Namibia||<code style="speak-as:spell-out">516</code>||<code style="speak-as:spell-out">NAM</code>||<code style="speak-as:spell-out">NA</code>||南アフリカ||[[ISO 3166-2:NA]]
+|-
+|{{flagicon|Antarctica}} [[南極]]||lang="en"|Antarctica||<code style="speak-as:spell-out">010</code>||<code style="speak-as:spell-out">ATA</code>||<code style="speak-as:spell-out">AQ</code>||南極||[[ISO 3166-2:AQ]]
+|-
+|{{flagicon|Niue}} [[ニウエ]]||lang="en"|Niue||<code style="speak-as:spell-out">570</code>||<code style="speak-as:spell-out">NIU</code>||<code style="speak-as:spell-out">NU</code>||オセアニア||[[ISO 3166-2:NU]]
+|-
+|{{flagicon|Nicaragua}} [[ニカラグア]]||lang="en"|Nicaragua||<code style="speak-as:spell-out">558</code>||<code style="speak-as:spell-out">NIC</code>||<code style="speak-as:spell-out">NI</code>||中央アメリカ||[[ISO 3166-2:NI]]
+|-
+|{{flagicon|Niger}} [[ニジェール]]||lang="en"|Niger||<code style="speak-as:spell-out">562</code>||<code style="speak-as:spell-out">NER</code>||<code style="speak-as:spell-out">NE</code>||中央アフリカ||[[ISO 3166-2:NE]]
+|-
+|{{flagicon|Japan}} [[日本]]||lang="en"|Japan||<code style="speak-as:spell-out">392</code>||<code style="speak-as:spell-out">JPN</code>||<code style="speak-as:spell-out">JP</code>||東アジア||[[ISO 3166-2:JP]]
+|-
+|{{flagicon|Western Sahara}} [[西サハラ]]||lang="en"|Western Sahara||<code style="speak-as:spell-out">732</code>||<code style="speak-as:spell-out">ESH</code>||<code style="speak-as:spell-out">EH</code>||西アフリカ||[[ISO 3166-2:EH]]
+|-
+|{{flagicon|New Caledonia}} [[ニューカレドニア]]||lang="en"|New Caledonia||<code style="speak-as:spell-out">540</code>||<code style="speak-as:spell-out">NCL</code>||<code style="speak-as:spell-out">NC</code>||オセアニア||[[ISO 3166-2:NC]]
+|-
+|{{flagicon|New Zealand}} [[ニュージーランド]]||lang="en"|New Zealand||<code style="speak-as:spell-out">554</code>||<code style="speak-as:spell-out">NZL</code>||<code style="speak-as:spell-out">NZ</code>||オセアニア||[[ISO 3166-2:NZ]]
+|-
+|{{flagicon|Nepal}} [[ネパール]]||lang="en"|Nepal||<code style="speak-as:spell-out">524</code>||<code style="speak-as:spell-out">NPL</code>||<code style="speak-as:spell-out">NP</code>||南アジア||[[ISO 3166-2:NP]]
+|-
+|{{flagicon|Norfolk Island}} [[ノーフォーク島]]||lang="en"|Norfolk Island||<code style="speak-as:spell-out">574</code>||<code style="speak-as:spell-out">NFK</code>||<code style="speak-as:spell-out">NF</code>||オセアニア||[[ISO 3166-2:NF]]
+|-
+|{{flagicon|Norway}} [[ノルウェー]]||lang="en"|Norway||<code style="speak-as:spell-out">578</code>||<code style="speak-as:spell-out">NOR</code>||<code style="speak-as:spell-out">NO</code>||北ヨーロッパ||[[ISO 3166-2:NO]]
+|- class="sortbottom"
+| colspan="7" style="background-color:PaleGreen" | {{Anchors|は}}は
+|-
+|{{flagicon|Australia}} [[ハード島とマクドナルド諸島]]||lang="en"|Heard Island and McDonald Islands||<code style="speak-as:spell-out">334</code>||<code style="speak-as:spell-out">HMD</code>||<code style="speak-as:spell-out">HM</code>||インド洋地域||[[ISO 3166-2:HM]]
+|-
+|{{flagicon|Bahrain}} [[バーレーン]]||lang="en"|Bahrain||<code style="speak-as:spell-out">048</code>||<code style="speak-as:spell-out">BHR</code>||<code style="speak-as:spell-out">BH</code>||中東||[[ISO 3166-2:BH]]
+|-
+|{{flagicon|Haiti}} [[ハイチ]]||lang="en"|Haiti||<code style="speak-as:spell-out">332</code>||<code style="speak-as:spell-out">HTI</code>||<code style="speak-as:spell-out">HT</code>||中央アメリカ||[[ISO 3166-2:HT]]
+|-
+|{{flagicon|Pakistan}} [[パキスタン]]||lang="en"|Pakistan||<code style="speak-as:spell-out">586</code>||<code style="speak-as:spell-out">PAK</code>||<code style="speak-as:spell-out">PK</code>||南アジア||[[ISO 3166-2:PK]]
+|-
+|{{flagicon|Vatican City}} [[バチカン|バチカン市国]]||lang="en"|Holy See||<code style="speak-as:spell-out">336</code>||<code style="speak-as:spell-out">VAT</code>||<code style="speak-as:spell-out">VA</code>||西ヨーロッパ||[[ISO 3166-2:VA]]
+|-
+|{{flagicon|Panama}} [[パナマ]]||lang="en"|Panama||<code style="speak-as:spell-out">591</code>||<code style="speak-as:spell-out">PAN</code>||<code style="speak-as:spell-out">PA</code>||中央アメリカ||[[ISO 3166-2:PA]]
+|-
+|{{flagicon|Vanuatu}} [[バヌアツ]]||lang="en"|Vanuatu||<code style="speak-as:spell-out">548</code>||<code style="speak-as:spell-out">VUT</code>||<code style="speak-as:spell-out">VU</code>||オセアニア||[[ISO 3166-2:VU]]
+|-
+|{{flagicon|Bahamas}} [[バハマ]]||lang="en"|Bahamas||<code style="speak-as:spell-out">044</code>||<code style="speak-as:spell-out">BHS</code>||<code style="speak-as:spell-out">BS</code>||中央アメリカ||[[ISO 3166-2:BS]]
+|-
+|{{flagicon|Papua New Guinea}} [[パプアニューギニア]]||lang="en"|Papua New Guinea||<code style="speak-as:spell-out">598</code>||<code style="speak-as:spell-out">PNG</code>||<code style="speak-as:spell-out">PG</code>||オセアニア||[[ISO 3166-2:PG]]
+|-
+|{{flagicon|Bermuda}} [[バミューダ諸島|バミューダ]]||lang="en"|Bermuda||<code style="speak-as:spell-out">060</code>||<code style="speak-as:spell-out">BMU</code>||<code style="speak-as:spell-out">BM</code>||中央アメリカ||[[ISO 3166-2:BM]]
+|-
+|{{flagicon|Palau}} [[パラオ]]||lang="en"|Palau||<code style="speak-as:spell-out">585</code>||<code style="speak-as:spell-out">PLW</code>||<code style="speak-as:spell-out">PW</code>||オセアニア||[[ISO 3166-2:PW]]
+|-
+|{{flagicon|Paraguay}} [[パラグアイ]]||lang="en"|Paraguay||<code style="speak-as:spell-out">600</code>||<code style="speak-as:spell-out">PRY</code>||<code style="speak-as:spell-out">PY</code>||南アメリカ||[[ISO 3166-2:PY]]
+|-
+|{{flagicon|Barbados}} [[バルバドス]]||lang="en"|Barbados||<code style="speak-as:spell-out">052</code>||<code style="speak-as:spell-out">BRB</code>||<code style="speak-as:spell-out">BB</code>||中央アメリカ||[[ISO 3166-2:BB]]
+|-
+|{{flagicon|Palestine}} [[パレスチナ]]||lang="en"|Palestine, State of||<code style="speak-as:spell-out">275</code>||<code style="speak-as:spell-out">PSE</code>||<code style="speak-as:spell-out">PS</code>||中東||[[ISO 3166-2:PS]]
+|-
+|{{flagicon|Hungary}} [[ハンガリー]]||lang="en"|Hungary||<code style="speak-as:spell-out">348</code>||<code style="speak-as:spell-out">HUN</code>||<code style="speak-as:spell-out">HU</code>||東ヨーロッパ||[[ISO 3166-2:HU]]
+|-
+|{{flagicon|Bangladesh}} [[バングラデシュ]]||lang="en"|Bangladesh||<code style="speak-as:spell-out">050</code>||<code style="speak-as:spell-out">BGD</code>||<code style="speak-as:spell-out">BD</code>||南アジア||[[ISO 3166-2:BD]]
+|-
+|{{flagicon|East Timor}} [[東ティモール]]||lang="en"|Timor-Leste||<code style="speak-as:spell-out">626</code>||<code style="speak-as:spell-out">TLS</code>||<code style="speak-as:spell-out">TL</code>||東南アジア||[[ISO 3166-2:TL]]
+|-
+|{{flagicon|Pitcairn Islands}} [[ピトケアン諸島|ピトケアン]]||lang="en"|Pitcairn||<code style="speak-as:spell-out">612</code>||<code style="speak-as:spell-out">PCN</code>||<code style="speak-as:spell-out">PN</code>||オセアニア||[[ISO 3166-2:PN]]
+|-
+|{{flagicon|Fiji}} [[フィジー]]||lang="en"|Fiji||<code style="speak-as:spell-out">242</code>||<code style="speak-as:spell-out">FJI</code>||<code style="speak-as:spell-out">FJ</code>||オセアニア||[[ISO 3166-2:FJ]]
+|-
+|{{flagicon|Philippines}} [[フィリピン]]||lang="en"|Philippines||<code style="speak-as:spell-out">608</code>||<code style="speak-as:spell-out">PHL</code>||<code style="speak-as:spell-out">PH</code>||東南アジア||[[ISO 3166-2:PH]]
+|-
+|{{flagicon|Finland}} [[フィンランド]]||lang="en"|Finland||<code style="speak-as:spell-out">246</code>||<code style="speak-as:spell-out">FIN</code>||<code style="speak-as:spell-out">FI</code>||北ヨーロッパ||[[ISO 3166-2:FI]]
+|-
+|{{flagicon|Bhutan}} [[ブータン]]||lang="en"|Bhutan||<code style="speak-as:spell-out">064</code>||<code style="speak-as:spell-out">BTN</code>||<code style="speak-as:spell-out">BT</code>||南アジア||[[ISO 3166-2:BT]]
+|-
+|{{flagicon|Norway}} [[ブーベ島]]||lang="en"|Bouvet Island||<code style="speak-as:spell-out">074</code>||<code style="speak-as:spell-out">BVT</code>||<code style="speak-as:spell-out">BV</code>||南極||[[ISO 3166-2:BV]]
+|-
+|{{flagicon|Puerto Rico}} [[プエルトリコ]]||lang="en"|Puerto Rico||<code style="speak-as:spell-out">630</code>||<code style="speak-as:spell-out">PRI</code>||<code style="speak-as:spell-out">PR</code>||中央アメリカ||[[ISO 3166-2:PR]]
+|-
+|{{flagicon|Faroe Islands}} [[フェロー諸島]]||lang="en"|Faroe Islands||<code style="speak-as:spell-out">234</code>||<code style="speak-as:spell-out">FRO</code>||<code style="speak-as:spell-out">FO</code>||北ヨーロッパ||[[ISO 3166-2:FO]]
+|-
+|{{flagicon|Falkland Islands}} [[フォークランド諸島|フォークランド（マルビナス）諸島]]||lang="en"|Falkland Islands (Malvinas)||<code style="speak-as:spell-out">238</code>||<code style="speak-as:spell-out">FLK</code>||<code style="speak-as:spell-out">FK</code>||南アメリカ||[[ISO 3166-2:FK]]
+|-
+|{{flagicon|Brazil}} [[ブラジル]]||lang="en"|Brazil||<code style="speak-as:spell-out">076</code>||<code style="speak-as:spell-out">BRA</code>||<code style="speak-as:spell-out">BR</code>||南アメリカ||[[ISO 3166-2:BR]]
+|-
+|{{flagicon|France}} [[フランス]]||lang="en"|France||<code style="speak-as:spell-out">250</code>||<code style="speak-as:spell-out">FRA</code>||<code style="speak-as:spell-out">FR</code>||西ヨーロッパ||[[ISO 3166-2:FR]]
+|-
+|{{flagicon|French Guiana}} [[フランス領ギアナ]]||lang="en"|French Guiana||<code style="speak-as:spell-out">254</code>||<code style="speak-as:spell-out">GUF</code>||<code style="speak-as:spell-out">GF</code>||南アメリカ||[[ISO 3166-2:GF]]
+|-
+|{{flagicon|French Polynesia}} [[フランス領ポリネシア]]||lang="en"|French Polynesia||<code style="speak-as:spell-out">258</code>||<code style="speak-as:spell-out">PYF</code>||<code style="speak-as:spell-out">PF</code>||オセアニア||[[ISO 3166-2:PF]]
+|-
+|{{flagicon|French Southern and Antarctic Lands}} [[フランス領南方・南極地域]]||lang="en"|French Southern Territories||<code style="speak-as:spell-out">260</code>||<code style="speak-as:spell-out">ATF</code>||<code style="speak-as:spell-out">TF</code>||インド洋地域||[[ISO 3166-2:TF]]
+|-
+|{{flagicon|Bulgaria}} [[ブルガリア]]||lang="en"|Bulgaria||<code style="speak-as:spell-out">100</code>||<code style="speak-as:spell-out">BGR</code>||<code style="speak-as:spell-out">BG</code>||東ヨーロッパ||[[ISO 3166-2:BG]]
+|-
+|{{flagicon|Burkina Faso}} [[ブルキナファソ]]||lang="en"|Burkina Faso||<code style="speak-as:spell-out">854</code>||<code style="speak-as:spell-out">BFA</code>||<code style="speak-as:spell-out">BF</code>||西アフリカ||[[ISO 3166-2:BF]]
+|-
+|{{flagicon|Brunei}} [[ブルネイ|ブルネイ・ダルサラーム]]||lang="en"|Brunei Darussalam||<code style="speak-as:spell-out">096</code>||<code style="speak-as:spell-out">BRN</code>||<code style="speak-as:spell-out">BN</code>||東南アジア||[[ISO 3166-2:BN]]
+|-
+|{{flagicon|Burundi}} [[ブルンジ]]||lang="en"|Burundi||<code style="speak-as:spell-out">108</code>||<code style="speak-as:spell-out">BDI</code>||<code style="speak-as:spell-out">BI</code>||中央アフリカ||[[ISO 3166-2:BI]]
+|-
+|{{flagicon|Vietnam}} [[ベトナム]]||lang="en"|Viet Nam||<code style="speak-as:spell-out">704</code>||<code style="speak-as:spell-out">VNM</code>||<code style="speak-as:spell-out">VN</code>||東南アジア||[[ISO 3166-2:VN]]
+|-
+|{{flagicon|Benin}} [[ベナン]]||lang="en"|Benin||<code style="speak-as:spell-out">204</code>||<code style="speak-as:spell-out">BEN</code>||<code style="speak-as:spell-out">BJ</code>||西アフリカ||[[ISO 3166-2:BJ]]
+|-
+|{{flagicon|Venezuela}} [[ベネズエラ|ベネズエラ・ボリバル共和国]]||lang="en"|Venezuela (Bolivarian Republic of)||<code style="speak-as:spell-out">862</code>||<code style="speak-as:spell-out">VEN</code>||<code style="speak-as:spell-out">VE</code>||南アメリカ||[[ISO 3166-2:VE]]
+|-
+|{{flagicon|Belarus}} [[ベラルーシ]]||lang="en"|Belarus||<code style="speak-as:spell-out">112</code>||<code style="speak-as:spell-out">BLR</code>||<code style="speak-as:spell-out">BY</code>||東ヨーロッパ||[[ISO 3166-2:BY]]
+|-
+|{{flagicon|Belize}} [[ベリーズ]]||lang="en"|Belize||<code style="speak-as:spell-out">084</code>||<code style="speak-as:spell-out">BLZ</code>||<code style="speak-as:spell-out">BZ</code>||中央アメリカ||[[ISO 3166-2:BZ]]
+|-
+|{{flagicon|Peru}} [[ペルー]]||lang="en"|Peru||<code style="speak-as:spell-out">604</code>||<code style="speak-as:spell-out">PER</code>||<code style="speak-as:spell-out">PE</code>||南アメリカ||[[ISO 3166-2:PE]]
+|-
+|{{flagicon|Belgium}} [[ベルギー]]||lang="en"|Belgium||<code style="speak-as:spell-out">056</code>||<code style="speak-as:spell-out">BEL</code>||<code style="speak-as:spell-out">BE</code>||西ヨーロッパ||[[ISO 3166-2:BE]]
+|-
+|{{flagicon|Poland}} [[ポーランド]]||lang="en"|Poland||<code style="speak-as:spell-out">616</code>||<code style="speak-as:spell-out">POL</code>||<code style="speak-as:spell-out">PL</code>||東ヨーロッパ||[[ISO 3166-2:PL]]
+|-
+|{{flagicon|Bosnia and Herzegovina}} [[ボスニア・ヘルツェゴビナ]]||lang="en"|Bosnia and Herzegovina||<code style="speak-as:spell-out">070</code>||<code style="speak-as:spell-out">BIH</code>||<code style="speak-as:spell-out">BA</code>||東ヨーロッパ||[[ISO 3166-2:BA]]
+|-
+|{{flagicon|Botswana}} [[ボツワナ]]||lang="en"|Botswana||<code style="speak-as:spell-out">072</code>||<code style="speak-as:spell-out">BWA</code>||<code style="speak-as:spell-out">BW</code>||南アフリカ||[[ISO 3166-2:BW]]
+|-
+|{{flagicon|Netherlands}} [[BES諸島|ボネール、シント・ユースタティウスおよびサバ]]||lang="en"|Bonaire, Sint Eustatius and Saba||<code style="speak-as:spell-out">535</code>||<code style="speak-as:spell-out">BES</code>||<code style="speak-as:spell-out">BQ</code>||中央アメリカ||[[ISO 3166-2:BQ]]
+|-
+|{{flagicon|Bolivia}} [[ボリビア|ボリビア多民族国]]||lang="en"|Bolivia (Plurinational State of)||<code style="speak-as:spell-out">068</code>||<code style="speak-as:spell-out">BOL</code>||<code style="speak-as:spell-out">BO</code>||南アメリカ||[[ISO 3166-2:BO]]
+|-
+|{{flagicon|Portugal}} [[ポルトガル]]||lang="en"|Portugal||<code style="speak-as:spell-out">620</code>||<code style="speak-as:spell-out">PRT</code>||<code style="speak-as:spell-out">PT</code>||西ヨーロッパ||[[ISO 3166-2:PT]]
+|-
+|{{flagicon|Hong Kong}} [[香港]]||lang="en"|Hong Kong||<code style="speak-as:spell-out">344</code>||<code style="speak-as:spell-out">HKG</code>||<code style="speak-as:spell-out">HK</code>||東アジア||[[ISO 3166-2:HK]]
+|-
+|{{flagicon|Honduras}} [[ホンジュラス]]||lang="en"|Honduras||<code style="speak-as:spell-out">340</code>||<code style="speak-as:spell-out">HND</code>||<code style="speak-as:spell-out">HN</code>||中央アメリカ||[[ISO 3166-2:HN]]
+|- class="sortbottom"
+| colspan="7" style="background-color:PaleGreen" | {{Anchors|ま}}ま
+|-
+|{{flagicon|Marshall Islands}} [[マーシャル諸島]]||lang="en"|Marshall Islands||<code style="speak-as:spell-out">584</code>||<code style="speak-as:spell-out">MHL</code>||<code style="speak-as:spell-out">MH</code>||オセアニア||[[ISO 3166-2:MH]]
+|-
+|{{flagicon|Macau}} [[マカオ]]||lang="en"|Macau||<code style="speak-as:spell-out">446</code>||<code style="speak-as:spell-out">MAC</code>||<code style="speak-as:spell-out">MO</code>||東アジア||[[ISO 3166-2:MO]]
+|-
+|{{flagicon|Madagascar}} [[マダガスカル]]||lang="en"|Madagascar||<code style="speak-as:spell-out">450</code>||<code style="speak-as:spell-out">MDG</code>||<code style="speak-as:spell-out">MG</code>||インド洋地域||[[ISO 3166-2:MG]]
+|-
+|{{flagicon|France}} [[マヨット]]||lang="en"|Mayotte||<code style="speak-as:spell-out">175</code>||<code style="speak-as:spell-out">MYT</code>||<code style="speak-as:spell-out">YT</code>||インド洋地域||[[ISO 3166-2:YT]]
+|-
+|{{flagicon|Malawi}} [[マラウイ]]||lang="en"|Malawi||<code style="speak-as:spell-out">454</code>||<code style="speak-as:spell-out">MWI</code>||<code style="speak-as:spell-out">MW</code>||南アフリカ||[[ISO 3166-2:MW]]
+|-
+|{{flagicon|Mali}} [[マリ共和国|マリ]]||lang="en"|Mali||<code style="speak-as:spell-out">466</code>||<code style="speak-as:spell-out">MLI</code>||<code style="speak-as:spell-out">ML</code>||西アフリカ||[[ISO 3166-2:ML]]
+|-
+|{{flagicon|Malta}} [[マルタ]]||lang="en"|Malta||<code style="speak-as:spell-out">470</code>||<code style="speak-as:spell-out">MLT</code>||<code style="speak-as:spell-out">MT</code>||地中海地域||[[ISO 3166-2:MT]]
+|-
+|{{flagicon|Martinique}} [[マルティニーク]]||lang="en"|Martinique||<code style="speak-as:spell-out">474</code>||<code style="speak-as:spell-out">MTQ</code>||<code style="speak-as:spell-out">MQ</code>||中央アメリカ||[[ISO 3166-2:MQ]]
+|-
+|{{flagicon|Malaysia}} [[マレーシア]]||lang="en"|Malaysia||<code style="speak-as:spell-out">458</code>||<code style="speak-as:spell-out">MYS</code>||<code style="speak-as:spell-out">MY</code>||東南アジア||[[ISO 3166-2:MY]]
+|-
+|{{flagicon|Isle of Man}} [[マン島]]||lang="en"|Isle of Man||<code style="speak-as:spell-out">833</code>||<code style="speak-as:spell-out">IMN</code>||<code style="speak-as:spell-out">IM</code>||西ヨーロッパ||[[ISO 3166-2:IM]]
+|-
+|{{flagicon|Federated States of Micronesia}} [[ミクロネシア連邦]]||lang="en"|Micronesia (Federated States of)||<code style="speak-as:spell-out">583</code>||<code style="speak-as:spell-out">FSM</code>||<code style="speak-as:spell-out">FM</code>||オセアニア||[[ISO 3166-2:FM]]
+|-
+|{{flagicon|South Africa}} [[南アフリカ共和国|南アフリカ]]||lang="en"|South Africa||<code style="speak-as:spell-out">710</code>||<code style="speak-as:spell-out">ZAF</code>||<code style="speak-as:spell-out">ZA</code>||南アフリカ||[[ISO 3166-2:ZA]]
+|-
+|{{flagicon|South Sudan}} [[南スーダン]]||lang="en"|South Sudan||<code style="speak-as:spell-out">728</code>||<code style="speak-as:spell-out">SSD</code>||<code style="speak-as:spell-out">SS</code>||東アフリカ||[[ISO 3166-2:SS]]
+|-
+|{{flagicon|Myanmar}} [[ミャンマー]]||lang="en"|Myanmar||<code style="speak-as:spell-out">104</code>||<code style="speak-as:spell-out">MMR</code>||<code style="speak-as:spell-out">MM</code>||東南アジア|| style="white-space:nowrap;" |[[ISO 3166-2:MM]]
+|-
+|{{flagicon|Mexico}} [[メキシコ]]||lang="en"|Mexico||<code style="speak-as:spell-out">484</code>||<code style="speak-as:spell-out">MEX</code>||<code style="speak-as:spell-out">MX</code>||中央アメリカ||[[ISO 3166-2:MX]]
+|-
+|{{flagicon|Mauritius}} [[モーリシャス]]||lang="en"|Mauritius||<code style="speak-as:spell-out">480</code>||<code style="speak-as:spell-out">MUS</code>||<code style="speak-as:spell-out">MU</code>||南アフリカ||[[ISO 3166-2:MU]]
+|-
+|{{flagicon|Mauritania}} [[モーリタニア]]||lang="en"|Mauritania||<code style="speak-as:spell-out">478</code>||<code style="speak-as:spell-out">MRT</code>||<code style="speak-as:spell-out">MR</code>||西アフリカ||[[ISO 3166-2:MR]]
+|-
+|{{flagicon|Mozambique}} [[モザンビーク]]||lang="en"|Mozambique||<code style="speak-as:spell-out">508</code>||<code style="speak-as:spell-out">MOZ</code>||<code style="speak-as:spell-out">MZ</code>||南アフリカ||[[ISO 3166-2:MZ]]
+|-
+|{{flagicon|Monaco}} [[モナコ]]||lang="en"|Monaco||<code style="speak-as:spell-out">492</code>||<code style="speak-as:spell-out">MCO</code>||<code style="speak-as:spell-out">MC</code>||西ヨーロッパ||[[ISO 3166-2:MC]]
+|-
+|{{flagicon|Maldives}} [[モルディブ]]||lang="en"|Maldives||<code style="speak-as:spell-out">462</code>||<code style="speak-as:spell-out">MDV</code>||<code style="speak-as:spell-out">MV</code>||インド洋地域||[[ISO 3166-2:MV]]
+|-
+|{{flagicon|Moldova}} [[モルドバ|モルドバ共和国]]||lang="en"|Moldova, Republic of||<code style="speak-as:spell-out">498</code>||<code style="speak-as:spell-out">MDA</code>||<code style="speak-as:spell-out">MD</code>||東ヨーロッパ||[[ISO 3166-2:MD]]
+|-
+|{{flagicon|Morocco}} [[モロッコ]]||lang="en"|Morocco||<code style="speak-as:spell-out">504</code>||<code style="speak-as:spell-out">MAR</code>||<code style="speak-as:spell-out">MA</code>||北アフリカ||[[ISO 3166-2:MA]]
+|-
+|{{flagicon|Mongolia}} [[モンゴル国|モンゴル]]||lang="en"|Mongolia||<code style="speak-as:spell-out">496</code>||<code style="speak-as:spell-out">MNG</code>||<code style="speak-as:spell-out">MN</code>||東アジア||[[ISO 3166-2:MN]]
+|-
+|{{flagicon|Montenegro}} [[モンテネグロ]]||lang="en"|Montenegro||<code style="speak-as:spell-out">499</code>||<code style="speak-as:spell-out">MNE</code>||<code style="speak-as:spell-out">ME</code>||東ヨーロッパ||[[ISO 3166-2:ME]]
+|-
+|{{flagicon|Montserrat}} [[モントセラト]]||lang="en"|Montserrat||<code style="speak-as:spell-out">500</code>||<code style="speak-as:spell-out">MSR</code>||<code style="speak-as:spell-out">MS</code>||中央アメリカ||[[ISO 3166-2:MS]]
+|- class="sortbottom"
+| colspan="7" style="background-color:PaleGreen" | {{Anchors|や}}や
+|-
+|{{flagicon|Jordan}} [[ヨルダン]]||lang="en"|Jordan||<code style="speak-as:spell-out">400</code>||<code style="speak-as:spell-out">JOR</code>||<code style="speak-as:spell-out">JO</code>||中東||[[ISO 3166-2:JO]]
+|- class="sortbottom"
+| colspan="7" style="background-color:PaleGreen" | {{Anchors|ら}}ら
+|-
+|{{flagicon|Laos}} [[ラオス|ラオス人民民主共和国]]||lang="en"|Lao People's Democratic Republic||<code style="speak-as:spell-out">418</code>||<code style="speak-as:spell-out">LAO</code>||<code style="speak-as:spell-out">LA</code>||東南アジア||[[ISO 3166-2:LA]]
+|-
+|{{flagicon|Latvia}} [[ラトビア]]||lang="en"|Latvia||<code style="speak-as:spell-out">428</code>||<code style="speak-as:spell-out">LVA</code>||<code style="speak-as:spell-out">LV</code>||東ヨーロッパ||[[ISO 3166-2:LV]]
+|-
+|{{flagicon|Lithuania}} [[リトアニア]]||lang="en"|Lithuania||<code style="speak-as:spell-out">440</code>||<code style="speak-as:spell-out">LTU</code>||<code style="speak-as:spell-out">LT</code>||東ヨーロッパ||[[ISO 3166-2:LT]]
+|-
+|{{flagicon|Libya}} [[リビア]]||lang="en"|Libya||<code style="speak-as:spell-out">434</code>||<code style="speak-as:spell-out">LBY</code>||<code style="speak-as:spell-out">LY</code>||北アフリカ||[[ISO 3166-2:LY]]
+|-
+|{{flagicon|Liechtenstein}} [[リヒテンシュタイン]]||lang="en"|Liechtenstein||<code style="speak-as:spell-out">438</code>||<code style="speak-as:spell-out">LIE</code>||<code style="speak-as:spell-out">LI</code>||西ヨーロッパ||[[ISO 3166-2:LI]]
+|-
+|{{flagicon|Liberia}} [[リベリア]]||lang="en"|Liberia||<code style="speak-as:spell-out">430</code>||<code style="speak-as:spell-out">LBR</code>||<code style="speak-as:spell-out">LR</code>||西アフリカ||[[ISO 3166-2:LR]]
+|-
+|{{flagicon|Romania}} [[ルーマニア]]||lang="en"|Romania||<code style="speak-as:spell-out">642</code>||<code style="speak-as:spell-out">ROU</code>||<code style="speak-as:spell-out">RO</code>||東ヨーロッパ||[[ISO 3166-2:RO]]
+|-
+|{{flagicon|Luxembourg}} [[ルクセンブルク]]||lang="en"|Luxembourg||<code style="speak-as:spell-out">442</code>||<code style="speak-as:spell-out">LUX</code>||<code style="speak-as:spell-out">LU</code>||西ヨーロッパ||[[ISO 3166-2:LU]]
+|-
+|{{flagicon|Rwanda}} [[ルワンダ]]||lang="en"|Rwanda||<code style="speak-as:spell-out">646</code>||<code style="speak-as:spell-out">RWA</code>||<code style="speak-as:spell-out">RW</code>||中央アフリカ||[[ISO 3166-2:RW]]
+|-
+|{{flagicon|Lesotho}} [[レソト]]||lang="en"|Lesotho||<code style="speak-as:spell-out">426</code>||<code style="speak-as:spell-out">LSO</code>||<code style="speak-as:spell-out">LS</code>||南アフリカ||[[ISO 3166-2:LS]]
+|-
+|{{flagicon|Lebanon}} [[レバノン]]||lang="en"|Lebanon||<code style="speak-as:spell-out">422</code>||<code style="speak-as:spell-out">LBN</code>||<code style="speak-as:spell-out">LB</code>||中東||[[ISO 3166-2:LB]]
+|-
+|{{flagicon|Réunion}} [[レユニオン]]||lang="en"|Réunion||<code style="speak-as:spell-out">638</code>||<code style="speak-as:spell-out">REU</code>||<code style="speak-as:spell-out">RE</code>||インド洋地域||[[ISO 3166-2:RE]]
+|-
+|{{flagicon|Russia}} [[ロシア|ロシア連邦]]||lang="en"|Russian Federation||<code style="speak-as:spell-out">643</code>||<code style="speak-as:spell-out">RUS</code>||<code style="speak-as:spell-out">RU</code>||ロシア||[[ISO 3166-2:RU]]
+|}
+
+== 脚注 ==
+{{脚注ヘルプ}}
+<references />
+
+== 関連項目 ==
+* [[ISO 3166-2]]（行政区画名あるいは属領名コード）
+* [[ISO 3166-3]]
+* [[ISO 4217]]（通貨コード）
+* [[世界の国一覧表]]
+*:本規格の日本語版JIS X 0304において日本語の国名表記は本書によるとされている。
+
+== 外部リンク ==
+* [https://www.iso.org/iso-3166-country-codes.html ISO 3166 Maintenance Agency], International Organization for Standardization (ISO)
+
+{{Country-stub}}
+{{ISO 3166}}
+{{国の指標}}
+
+{{DEFAULTSORT:ISO 31661}}
+[[Category:ISO 3166|1]]
+[[Category:国の一覧]]
+[[Category:地方区分]]
+[[Category:行政区画]]
+[[Category:地方区分の一覧]]
+[[Category:略語の一覧]]
+[[Category:各国の一覧]]
+[[Category:国名コード]]
+
+[[sv:ISO 3166#ISO 3166-1-koder]]

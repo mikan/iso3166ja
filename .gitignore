@@ -1,0 +1,7 @@
+.idea
+*.json
+*.csv
+!iso3166ja.csv
+!iso3166ja-2.csv
+!iso3166ja-a.json
+!iso3166ja-m.json

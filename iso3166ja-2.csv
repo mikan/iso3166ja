@@ -1,0 +1,250 @@
+alpha2,name,name_ja
+IS,Iceland,アイスランド
+IE,Ireland,アイルランド
+AZ,Azerbaijan,アゼルバイジャン
+AF,Afghanistan,アフガニスタン
+US,United States of America,アメリカ合衆国
+VI,Virgin Islands (U.S.),アメリカ領ヴァージン諸島
+AS,American Samoa,アメリカ領サモア
+AE,United Arab Emirates,アラブ首長国連邦
+DZ,Algeria,アルジェリア
+AR,Argentina,アルゼンチン
+AW,Aruba,アルバ
+AL,Albania,アルバニア
+AM,Armenia,アルメニア
+AI,Anguilla,アンギラ
+AO,Angola,アンゴラ
+AG,Antigua and Barbuda,アンティグア・バーブーダ
+AD,Andorra,アンドラ
+YE,Yemen,イエメン
+GB,United Kingdom of Great Britain and Northern Ireland,イギリス
+IO,British Indian Ocean Territory,イギリス領インド洋地域
+VG,Virgin Islands (British),イギリス領ヴァージン諸島
+IL,Israel,イスラエル
+IT,Italy,イタリア
+IQ,Iraq,イラク
+IR,Iran (Islamic Republic of),イラン・イスラム共和国
+IN,India,インド
+ID,Indonesia,インドネシア
+WF,Wallis and Futuna,ウォリス・フツナ
+UG,Uganda,ウガンダ
+UA,Ukraine,ウクライナ
+UZ,Uzbekistan,ウズベキスタン
+UY,Uruguay,ウルグアイ
+EC,Ecuador,エクアドル
+EG,Egypt,エジプト
+EE,Estonia,エストニア
+SZ,Eswatini,エスワティニ
+ET,Ethiopia,エチオピア
+ER,Eritrea,エリトリア
+SV,El Salvador,エルサルバドル
+AU,Australia,オーストラリア
+AT,Austria,オーストリア
+AX,Åland Islands,オーランド諸島
+OM,Oman,オマーン
+NL,Netherlands,オランダ
+GH,Ghana,ガーナ
+CV,Cabo Verde,カーボベルデ
+GG,Guernsey,ガーンジー
+GY,Guyana,ガイアナ
+KZ,Kazakhstan,カザフスタン
+QA,Qatar,カタール
+UM,United States Minor Outlying Islands,合衆国領有小離島
+CA,Canada,カナダ
+GA,Gabon,ガボン
+CM,Cameroon,カメルーン
+GM,Gambia,ガンビア
+KH,Cambodia,カンボジア
+MK,North Macedonia,北マケドニア
+MP,Northern Mariana Islands,北マリアナ諸島
+GN,Guinea,ギニア
+GW,Guinea-Bissau,ギニアビサウ
+CY,Cyprus,キプロス
+CU,Cuba,キューバ
+CW,Curaçao,キュラソー
+GR,Greece,ギリシャ
+KI,Kiribati,キリバス
+KG,Kyrgyzstan,キルギス
+GT,Guatemala,グアテマラ
+GP,Guadeloupe,グアドループ
+GU,Guam,グアム
+KW,Kuwait,クウェート
+CK,Cook Islands,クック諸島
+GL,Greenland,グリーンランド
+CX,Christmas Island,クリスマス島
+GD,Grenada,グレナダ
+HR,Croatia,クロアチア
+KY,Cayman Islands,ケイマン諸島
+KE,Kenya,ケニア
+CI,Côte d'Ivoire,コートジボワール
+CC,Cocos (Keeling) Islands,ココス（キーリング）諸島
+CR,Costa Rica,コスタリカ
+KM,Comoros,コモロ
+CO,Colombia,コロンビア
+CG,Congo,コンゴ共和国
+CD,"Congo, Democratic Republic of the",コンゴ民主共和国
+SA,Saudi Arabia,サウジアラビア
+GS,South Georgia and the South Sandwich Islands,サウスジョージア・サウスサンドウィッチ諸島
+WS,Samoa,サモア
+ST,Sao Tome and Principe,サントメ・プリンシペ
+BL,Saint Barthélemy,サン・バルテルミー
+ZM,Zambia,ザンビア
+PM,Saint Pierre and Miquelon,サンピエール島・ミクロン島
+SM,San Marino,サンマリノ
+MF,Saint Martin (French part),サン・マルタン（フランス領）
+SL,Sierra Leone,シエラレオネ
+DJ,Djibouti,ジブチ
+GI,Gibraltar,ジブラルタル
+JE,Jersey,ジャージー
+JM,Jamaica,ジャマイカ
+GE,Georgia,ジョージア
+SY,Syrian Arab Republic,シリア・アラブ共和国
+SG,Singapore,シンガポール
+SX,Sint Maarten (Dutch part),シント・マールテン（オランダ領）
+ZW,Zimbabwe,ジンバブエ
+CH,Switzerland,スイス
+SE,Sweden,スウェーデン
+SD,Sudan,スーダン
+SJ,Svalbard and Jan Mayen,スヴァールバル諸島およびヤンマイエン島
+ES,Spain,スペイン
+SR,Suriname,スリナム
+LK,Sri Lanka,スリランカ
+SK,Slovakia,スロバキア
+SI,Slovenia,スロベニア
+SC,Seychelles,セーシェル
+GQ,Equatorial Guinea,赤道ギニア
+SN,Senegal,セネガル
+RS,Serbia,セルビア
+KN,Saint Kitts and Nevis,セントクリストファー・ネイビス
+VC,Saint Vincent and the Grenadines,セントビンセントおよびグレナディーン諸島
+SH,"Saint Helena, Ascension and Tristan da Cunha",セントヘレナ・アセンションおよびトリスタンダクーニャ
+LC,Saint Lucia,セントルシア
+SO,Somalia,ソマリア
+SB,Solomon Islands,ソロモン諸島
+TC,Turks and Caicos Islands,タークス・カイコス諸島
+TH,Thailand,タイ
+KR,"Korea, Republic of",大韓民国
+TW,"Taiwan, Province of China",中華民国
+TJ,Tajikistan,タジキスタン
+TZ,"Tanzania, United Republic of",タンザニア
+CZ,Czechia,チェコ
+TD,Chad,チャド
+CF,Central African Republic,中央アフリカ共和国
+CN,China,中華人民共和国
+TN,Tunisia,チュニジア
+KP,"Korea, Democratic People's Republic of",朝鮮民主主義人民共和国
+CL,Chile,チリ
+TV,Tuvalu,ツバル
+DK,Denmark,デンマーク
+DE,Germany,ドイツ
+TG,Togo,トーゴ
+TK,Tokelau,トケラウ
+DO,Dominican Republic,ドミニカ共和国
+DM,Dominica,ドミニカ国
+TT,Trinidad and Tobago,トリニダード・トバゴ
+TM,Turkmenistan,トルクメニスタン
+TR,Turkey,トルコ
+TO,Tonga,トンガ
+NG,Nigeria,ナイジェリア
+NR,Nauru,ナウル
+NA,Namibia,ナミビア
+AQ,Antarctica,南極
+NU,Niue,ニウエ
+NI,Nicaragua,ニカラグア
+NE,Niger,ニジェール
+JP,Japan,日本
+EH,Western Sahara,西サハラ
+NC,New Caledonia,ニューカレドニア
+NZ,New Zealand,ニュージーランド
+NP,Nepal,ネパール
+NF,Norfolk Island,ノーフォーク島
+NO,Norway,ノルウェー
+HM,Heard Island and McDonald Islands,ハード島とマクドナルド諸島
+BH,Bahrain,バーレーン
+HT,Haiti,ハイチ
+PK,Pakistan,パキスタン
+VA,Holy See,バチカン市国
+PA,Panama,パナマ
+VU,Vanuatu,バヌアツ
+BS,Bahamas,バハマ
+PG,Papua New Guinea,パプアニューギニア
+BM,Bermuda,バミューダ
+PW,Palau,パラオ
+PY,Paraguay,パラグアイ
+BB,Barbados,バルバドス
+PS,"Palestine, State of",パレスチナ
+HU,Hungary,ハンガリー
+BD,Bangladesh,バングラデシュ
+TL,Timor-Leste,東ティモール
+PN,Pitcairn,ピトケアン
+FJ,Fiji,フィジー
+PH,Philippines,フィリピン
+FI,Finland,フィンランド
+BT,Bhutan,ブータン
+BV,Bouvet Island,ブーベ島
+PR,Puerto Rico,プエルトリコ
+FO,Faroe Islands,フェロー諸島
+FK,Falkland Islands (Malvinas),フォークランド（マルビナス）諸島
+BR,Brazil,ブラジル
+FR,France,フランス
+GF,French Guiana,フランス領ギアナ
+PF,French Polynesia,フランス領ポリネシア
+TF,French Southern Territories,フランス領南方・南極地域
+BG,Bulgaria,ブルガリア
+BF,Burkina Faso,ブルキナファソ
+BN,Brunei Darussalam,ブルネイ・ダルサラーム
+BI,Burundi,ブルンジ
+VN,Viet Nam,ベトナム
+BJ,Benin,ベナン
+VE,Venezuela (Bolivarian Republic of),ベネズエラ・ボリバル共和国
+BY,Belarus,ベラルーシ
+BZ,Belize,ベリーズ
+PE,Peru,ペルー
+BE,Belgium,ベルギー
+PL,Poland,ポーランド
+BA,Bosnia and Herzegovina,ボスニア・ヘルツェゴビナ
+BW,Botswana,ボツワナ
+BQ,"Bonaire, Sint Eustatius and Saba",ボネール、シント・ユースタティウスおよびサバ
+BO,Bolivia (Plurinational State of),ボリビア多民族国
+PT,Portugal,ポルトガル
+HK,Hong Kong,香港
+HN,Honduras,ホンジュラス
+MH,Marshall Islands,マーシャル諸島
+MO,Macau,マカオ
+MG,Madagascar,マダガスカル
+YT,Mayotte,マヨット
+MW,Malawi,マラウイ
+ML,Mali,マリ
+MT,Malta,マルタ
+MQ,Martinique,マルティニーク
+MY,Malaysia,マレーシア
+IM,Isle of Man,マン島
+FM,Micronesia (Federated States of),ミクロネシア連邦
+ZA,South Africa,南アフリカ
+SS,South Sudan,南スーダン
+MM,Myanmar,ミャンマー
+MX,Mexico,メキシコ
+MU,Mauritius,モーリシャス
+MR,Mauritania,モーリタニア
+MZ,Mozambique,モザンビーク
+MC,Monaco,モナコ
+MV,Maldives,モルディブ
+MD,"Moldova, Republic of",モルドバ共和国
+MA,Morocco,モロッコ
+MN,Mongolia,モンゴル
+ME,Montenegro,モンテネグロ
+MS,Montserrat,モントセラト
+JO,Jordan,ヨルダン
+LA,Lao People's Democratic Republic,ラオス人民民主共和国
+LV,Latvia,ラトビア
+LT,Lithuania,リトアニア
+LY,Libya,リビア
+LI,Liechtenstein,リヒテンシュタイン
+LR,Liberia,リベリア
+RO,Romania,ルーマニア
+LU,Luxembourg,ルクセンブルク
+RW,Rwanda,ルワンダ
+LS,Lesotho,レソト
+LB,Lebanon,レバノン
+RE,Réunion,レユニオン
+RU,Russian Federation,ロシア連邦
